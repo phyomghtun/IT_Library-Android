@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IT Library</string>
+    <string name="title_activity_view">ViewActivity</string>
+</resources>
